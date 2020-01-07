@@ -1,0 +1,6 @@
+# c-plus-plus-banking-system
+
+C++ BANKING SYSTEM USING FILE I/O.
+DEVELOPED BY SAMI, ADNAN (ACADEMIC PROJECT)
+
+<h1>UNZIP my_database.zip BEFORE COMPILE/ RUN THE PROGRAM.</h1>
